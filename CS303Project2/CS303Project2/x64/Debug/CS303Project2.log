@@ -1,0 +1,6 @@
+﻿  linkedlist.cpp
+  stack.cpp
+C:\Users\jofrc\OneDrive\Desktop\Programs C++\CS303Project2\CS303Project2\stack.cpp(55,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jofrc\OneDrive\Desktop\Programs C++\CS303Project2\CS303Project2\stack.cpp(66,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CS303Project2.vcxproj -> C:\Users\jofrc\OneDrive\Desktop\Programs C++\CS303Project2\x64\Debug\CS303Project2.exe
